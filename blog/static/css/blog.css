@@ -22,8 +22,16 @@ body {
         font-family: 'Lobster', cursive;
     }
 
+    
+    .btn {
+	float: right;
+	margin-right: 40px;
+    }
+
     .date {
         float: right;
+	margin-top: 7px;
+	margin-right: 7px;
         color: #828282;
     }
 
